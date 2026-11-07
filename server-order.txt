@@ -1,0 +1,28 @@
+# Load order for the world's data packs on my server, lowest priority first. Apply with tools/reorder.py.
+file/Terralith_v2.6.5+26.3.zip
+file/Terralith_ReStoned_v1.3.1.zip
+file/Geophilic v3.7.dp.zip
+file/Terraphilic-1.2.0+26.3.zip
+file/Incendium_Legacy_v5.5.4+26.3.zip
+file/Nullscape_v2.0.1+26.3.zip
+file/Structory_v1.3.18+26.3.zip
+file/Structory_Towers_v1.0.19+26.3.zip
+file/zRemove_SDL_Intro_v1.2.2.zip
+file/Dungeons and Taverns v6.1.0.zip
+file/DnT Ancient City Overhaul v4.zip
+file/DnT Stronghold Overhaul 3.0.1.zip
+file/DnT Pillager Outpost Overhaul 3.4.2.zip
+file/DnT Woodland Mansion Overhaul 2.2.1.zip
+file/DnT Swamp Hut Overhaul v3.zip
+file/DnT Ocean Monument Overhaul v2.3.zip
+file/DnT Jungle Temple Overhaul v2.2.zip
+file/DnT Desert Temple Overhaul v2.2.zip
+file/From-The-Fog-Data-Resource-Pack-26.3-v1.11.3.zip
+file/5555ff-lib-v1.3.3.0.zip
+file/mob-heads-v5.3.1.zip
+file/mob-heads-tropical-fish-v1.0.1.2.zip
+file/player-drops-head-v3.7.1.zip
+file/name-tag-v2.2.0.0.zip
+file/mob-heads-powers-v2.2.0.zip
+file/totem-shield-v1.1.1-1.zip
+file/DatapackCompat-1.0.0.zip
