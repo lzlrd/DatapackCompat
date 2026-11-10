@@ -25,4 +25,5 @@ file/player-drops-head-v3.7.1.zip
 file/name-tag-v2.2.0.0.zip
 file/mob-heads-powers-v2.2.0.zip
 file/totem-shield-v1.1.1-1.zip
-file/DatapackCompat-1.0.0.zip
+file/cutebear_furniture
+file/DatapackCompat-1.1.0.zip
