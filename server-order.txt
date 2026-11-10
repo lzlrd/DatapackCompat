@@ -17,6 +17,7 @@ file/DnT Swamp Hut Overhaul v3.zip
 file/DnT Ocean Monument Overhaul v2.3.zip
 file/DnT Jungle Temple Overhaul v2.2.zip
 file/DnT Desert Temple Overhaul v2.2.zip
+file/DnT Mineshaft Overhaul 2.0.1.zip
 file/From-The-Fog-Data-Resource-Pack-26.3-v1.11.3.zip
 file/5555ff-lib-v1.3.3.0.zip
 file/mob-heads-v5.3.1.zip
@@ -26,4 +27,4 @@ file/name-tag-v2.2.0.0.zip
 file/mob-heads-powers-v2.2.0.zip
 file/totem-shield-v1.1.1-1.zip
 file/cutebear_furniture
-file/DatapackCompat-1.1.0.zip
+file/DatapackCompat-1.2.0.zip

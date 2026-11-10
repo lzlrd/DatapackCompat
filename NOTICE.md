@@ -8,7 +8,6 @@ This pack's own work is under [PolyForm Noncommercial 1.0.0](LICENSE.md). The me
 | `data/mob_heads/function/reset_all.mcfunction` | Mob Heads 5.3.1 and its Tropical Fish add-on 1.0.1.2 by Jodek | MIT, below |
 | `data/jodek/function/api/data/get/player_name.mcfunction` | 5555ff lib 1.3.3.0 by Jodek | MIT, below |
 | `data/player_drops_head/function/config/player/build_array.mcfunction`, `kill_player_head.mcfunction` | Player Drops Head 3.7.1 by Jodek | MIT, below |
-| `data/sleep/function/app/player_name/get_player_name.mcfunction` | Sleep 4.4.0 by Jodek | MIT, below |
 | `data/lunareclipse.watching/function/sightings/models/remove.mcfunction` | From the Fog 1.11.3 by Lunar Eclipse Studios, changed to kill the mannequin a tick later | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/); this changed file is under the same licence |
 
 ## Jodek's packs
